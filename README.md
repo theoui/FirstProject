@@ -1,2 +1,2 @@
 # FirstProject
-This for learning
+This for my first Angular learning project
